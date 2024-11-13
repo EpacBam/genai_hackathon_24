@@ -7,8 +7,7 @@ with open("data_dictionary.json", "r") as f:
     data_dictionary = json.load(f)
 
 # Set up OpenAI API key
-#openai.api_key = "YOUR_OPENAI_API_KEY"  # Set up your API key here
-openai.api_key = "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"  # Set up your API key here
+openai.api_key = "YOUR_OPENAI_API_KEY"  # Set up your API key here
 
 def interpret_question_with_openai(query, conversation_history):
     """
