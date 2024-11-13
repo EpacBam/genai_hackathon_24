@@ -1,0 +1,101 @@
+customer_id,product_recommended,recommendation_date,recommendation_status
+1,Credit Card,2024-10-06 10:11:39.037889,Declined
+2,Personal Loan,2024-09-06 10:11:39.037889,Declined
+3,Insurance,2024-10-08 10:11:39.037889,Ignored
+4,Mortgage,2024-10-10 10:11:39.037889,Ignored
+5,Credit Card,2024-09-26 10:11:39.037889,Declined
+6,Personal Loan,2024-09-23 10:11:39.037889,Ignored
+7,Mortgage,2024-10-14 10:11:39.037889,Ignored
+8,Mortgage,2024-10-23 10:11:39.037889,Accepted
+9,Personal Loan,2024-09-08 10:11:39.037889,Declined
+10,Insurance,2024-11-02 10:11:39.037889,Declined
+11,Personal Loan,2024-10-27 10:11:39.037889,Declined
+12,Insurance,2024-09-15 10:11:39.037889,Ignored
+13,Personal Loan,2024-09-28 10:11:39.037889,Declined
+14,Personal Loan,2024-09-28 10:11:39.037889,Accepted
+15,Insurance,2024-10-15 10:11:39.037889,Accepted
+16,Credit Card,2024-10-26 10:11:39.037889,Accepted
+17,Mortgage,2024-10-26 10:11:39.037889,Ignored
+18,Insurance,2024-09-29 10:11:39.037889,Accepted
+19,Mortgage,2024-10-29 10:11:39.037889,Accepted
+20,Credit Card,2024-09-07 10:11:39.037889,Ignored
+21,Insurance,2024-09-09 10:11:39.037889,Ignored
+22,Mortgage,2024-09-21 10:11:39.037889,Accepted
+23,Insurance,2024-10-12 10:11:39.037889,Accepted
+24,Personal Loan,2024-10-16 10:11:39.037889,Declined
+25,Credit Card,2024-09-23 10:11:39.037889,Declined
+26,Mortgage,2024-09-28 10:11:39.037889,Accepted
+27,Credit Card,2024-11-03 10:11:39.037889,Ignored
+28,Mortgage,2024-10-22 10:11:39.037889,Accepted
+29,Credit Card,2024-10-15 10:11:39.037889,Accepted
+30,Credit Card,2024-09-12 10:11:39.037889,Declined
+31,Personal Loan,2024-11-02 10:11:39.037889,Accepted
+32,Personal Loan,2024-10-20 10:11:39.037889,Ignored
+33,Insurance,2024-10-05 10:11:39.037889,Accepted
+34,Insurance,2024-10-30 10:11:39.037889,Ignored
+35,Credit Card,2024-10-25 10:11:39.037889,Declined
+36,Insurance,2024-09-10 10:11:39.037889,Declined
+37,Insurance,2024-10-05 10:11:39.037889,Ignored
+38,Mortgage,2024-10-26 10:11:39.037889,Accepted
+39,Credit Card,2024-09-11 10:11:39.037889,Ignored
+40,Credit Card,2024-09-18 10:11:39.037889,Ignored
+41,Personal Loan,2024-10-27 10:11:39.037889,Declined
+42,Personal Loan,2024-10-12 10:11:39.037889,Accepted
+43,Mortgage,2024-10-07 10:11:39.037889,Accepted
+44,Insurance,2024-10-30 10:11:39.037889,Declined
+45,Mortgage,2024-10-01 10:11:39.037889,Declined
+46,Credit Card,2024-09-27 10:11:39.037889,Declined
+47,Mortgage,2024-09-24 10:11:39.037889,Declined
+48,Mortgage,2024-10-05 10:11:39.037889,Ignored
+49,Personal Loan,2024-10-31 10:11:39.037889,Accepted
+50,Personal Loan,2024-09-23 10:11:39.037889,Accepted
+51,Insurance,2024-10-07 10:11:39.037889,Declined
+52,Personal Loan,2024-10-20 10:11:39.037889,Ignored
+53,Mortgage,2024-11-01 10:11:39.037889,Declined
+54,Insurance,2024-09-30 10:11:39.037889,Declined
+55,Mortgage,2024-09-13 10:11:39.037889,Ignored
+56,Mortgage,2024-11-03 10:11:39.037889,Accepted
+57,Personal Loan,2024-10-25 10:11:39.037889,Accepted
+58,Insurance,2024-09-07 10:11:39.037889,Declined
+59,Mortgage,2024-09-16 10:11:39.037889,Ignored
+60,Credit Card,2024-10-31 10:11:39.037889,Accepted
+61,Mortgage,2024-10-24 10:11:39.037889,Accepted
+62,Personal Loan,2024-10-30 10:11:39.037889,Declined
+63,Credit Card,2024-09-09 10:11:39.037889,Ignored
+64,Personal Loan,2024-10-23 10:11:39.037889,Declined
+65,Personal Loan,2024-10-27 10:11:39.037889,Accepted
+66,Personal Loan,2024-10-10 10:11:39.037889,Declined
+67,Personal Loan,2024-10-16 10:11:39.037889,Ignored
+68,Insurance,2024-09-18 10:11:39.037889,Declined
+69,Personal Loan,2024-10-15 10:11:39.037889,Ignored
+70,Credit Card,2024-09-29 10:11:39.037889,Accepted
+71,Insurance,2024-10-13 10:11:39.037889,Declined
+72,Credit Card,2024-09-15 10:11:39.037889,Accepted
+73,Mortgage,2024-09-11 10:11:39.037889,Ignored
+74,Mortgage,2024-10-01 10:11:39.037889,Declined
+75,Personal Loan,2024-09-29 10:11:39.037889,Ignored
+76,Credit Card,2024-11-03 10:11:39.037889,Declined
+77,Insurance,2024-09-19 10:11:39.037889,Declined
+78,Credit Card,2024-09-06 10:11:39.037889,Declined
+79,Insurance,2024-09-28 10:11:39.037889,Accepted
+80,Personal Loan,2024-09-16 10:11:39.037889,Accepted
+81,Insurance,2024-09-18 10:11:39.037889,Ignored
+82,Mortgage,2024-09-26 10:11:39.037889,Declined
+83,Personal Loan,2024-10-21 10:11:39.037889,Accepted
+84,Mortgage,2024-10-02 10:11:39.037889,Ignored
+85,Mortgage,2024-09-06 10:11:39.037889,Declined
+86,Credit Card,2024-10-05 10:11:39.037889,Ignored
+87,Credit Card,2024-09-19 10:11:39.037889,Accepted
+88,Personal Loan,2024-10-12 10:11:39.037889,Ignored
+89,Mortgage,2024-10-30 10:11:39.037889,Accepted
+90,Mortgage,2024-10-19 10:11:39.037889,Accepted
+91,Insurance,2024-09-23 10:11:39.037889,Ignored
+92,Mortgage,2024-10-19 10:11:39.037889,Ignored
+93,Credit Card,2024-10-16 10:11:39.037889,Declined
+94,Personal Loan,2024-10-01 10:11:39.037889,Ignored
+95,Credit Card,2024-10-03 10:11:39.037889,Accepted
+96,Insurance,2024-10-16 10:11:39.037889,Declined
+97,Credit Card,2024-10-15 10:11:39.037889,Ignored
+98,Credit Card,2024-09-11 10:11:39.037889,Ignored
+99,Mortgage,2024-09-13 10:11:39.037889,Ignored
+100,Insurance,2024-09-07 10:11:39.037889,Accepted

@@ -1,0 +1,101 @@
+customer_id,risk_marker
+82,Default
+91,Default
+34,Insolvency
+15,Insolvency
+30,High Risk
+4,High Risk
+32,Default
+100,Default
+24,High Risk
+68,Default
+82,Bankruptcy
+44,Default
+61,High Risk
+84,Bankruptcy
+62,Insolvency
+34,Default
+67,Default
+60,Bankruptcy
+14,High Risk
+26,Insolvency
+12,High Risk
+96,Bankruptcy
+76,Bankruptcy
+27,High Risk
+1,High Risk
+52,Insolvency
+11,Default
+20,Default
+97,High Risk
+100,Bankruptcy
+73,Default
+36,Bankruptcy
+48,Default
+10,High Risk
+1,Bankruptcy
+16,Insolvency
+6,Insolvency
+93,Bankruptcy
+25,Insolvency
+99,Default
+8,Bankruptcy
+63,High Risk
+74,Bankruptcy
+30,Insolvency
+63,Bankruptcy
+16,Default
+16,Insolvency
+30,Bankruptcy
+91,Bankruptcy
+2,Default
+37,Bankruptcy
+12,Bankruptcy
+75,High Risk
+46,Bankruptcy
+90,Insolvency
+29,High Risk
+1,Insolvency
+45,High Risk
+92,Default
+87,Bankruptcy
+41,High Risk
+8,High Risk
+76,Bankruptcy
+78,Bankruptcy
+42,Insolvency
+6,Bankruptcy
+12,Bankruptcy
+89,Default
+48,Bankruptcy
+43,Insolvency
+80,Bankruptcy
+86,High Risk
+43,Bankruptcy
+26,Bankruptcy
+34,High Risk
+73,Default
+54,High Risk
+30,Insolvency
+82,Bankruptcy
+43,Default
+5,Bankruptcy
+47,Bankruptcy
+56,Bankruptcy
+18,Bankruptcy
+68,Bankruptcy
+24,Bankruptcy
+45,Default
+94,Bankruptcy
+65,Bankruptcy
+65,Default
+23,Default
+20,High Risk
+93,Insolvency
+35,Insolvency
+45,Bankruptcy
+79,High Risk
+70,High Risk
+99,Bankruptcy
+26,High Risk
+71,Bankruptcy

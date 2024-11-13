@@ -1,0 +1,101 @@
+customer_id,credit_risk_rating,credit_history_flag,credit_limit
+1,Very High,Default,19476.85
+2,Very High,Good,1384.48
+3,Low,Missed Payments,11759.72
+4,High,Delinquent,16677.83
+5,Low,Default,1964.8
+6,Low,Default,8665.23
+7,High,Default,4846.21
+8,Very High,Default,14218.41
+9,High,Default,1021.61
+10,Low,Default,16897.59
+11,Very High,Good,4975.1
+12,Low,Default,15509.65
+13,Moderate,Good,10913.06
+14,Low,Delinquent,18867.86
+15,Low,Good,9386.3
+16,Moderate,Delinquent,5078.09
+17,Moderate,Delinquent,8331.3
+18,High,Delinquent,18444.87
+19,Very High,Missed Payments,5394.88
+20,High,Good,5243.51
+21,Low,Default,2380.84
+22,Very High,Missed Payments,6609.58
+23,Low,Missed Payments,19222.16
+24,Very High,Delinquent,18561.88
+25,High,Delinquent,6179.84
+26,Low,Delinquent,11216.47
+27,Low,Missed Payments,2365.7
+28,Moderate,Default,17329.45
+29,Moderate,Missed Payments,14660.8
+30,Moderate,Good,17838.54
+31,Very High,Missed Payments,8946.28
+32,Moderate,Good,18811.67
+33,High,Delinquent,6919.93
+34,Very High,Good,15689.61
+35,Moderate,Default,9882.75
+36,High,Good,13590.2
+37,High,Good,6498.54
+38,Moderate,Missed Payments,5210.68
+39,High,Good,7785.05
+40,Very High,Default,5400.31
+41,Moderate,Delinquent,16284.28
+42,Very High,Missed Payments,19168.66
+43,High,Default,3767.87
+44,Very High,Delinquent,15811.38
+45,Very High,Missed Payments,4686.21
+46,Very High,Good,12706.91
+47,Low,Missed Payments,3534.6
+48,Very High,Default,3050.21
+49,High,Good,2241.57
+50,Low,Good,10668.07
+51,Moderate,Default,1511.14
+52,Low,Good,13195.33
+53,Very High,Good,18573.82
+54,Moderate,Missed Payments,6432.54
+55,Low,Delinquent,15111.01
+56,Low,Delinquent,3438.68
+57,Very High,Missed Payments,1239.5
+58,Very High,Delinquent,8031.46
+59,Very High,Default,7429.32
+60,Low,Good,17404.67
+61,Low,Missed Payments,7425.59
+62,Low,Good,9570.88
+63,Moderate,Good,11188.12
+64,High,Default,15150.68
+65,High,Default,18629.88
+66,High,Delinquent,7521.55
+67,Moderate,Default,7842.49
+68,Very High,Missed Payments,13079.07
+69,Low,Missed Payments,1995.44
+70,Very High,Default,1360.25
+71,Very High,Default,2844.76
+72,High,Default,1079.42
+73,High,Good,9885.36
+74,Moderate,Default,3091.5
+75,High,Good,10606.68
+76,Low,Delinquent,18968.65
+77,High,Good,16277.66
+78,Moderate,Default,17830.15
+79,High,Missed Payments,17548.61
+80,Very High,Missed Payments,7417.71
+81,Very High,Delinquent,15267.79
+82,Moderate,Good,3177.68
+83,Low,Delinquent,15422.69
+84,Very High,Default,6341.39
+85,Low,Default,12664.82
+86,Moderate,Delinquent,15653.55
+87,Low,Missed Payments,5381.74
+88,Very High,Delinquent,13456.86
+89,Low,Missed Payments,11081.93
+90,Moderate,Missed Payments,7819.07
+91,Moderate,Good,17790.62
+92,Moderate,Delinquent,16075.14
+93,High,Default,6811.79
+94,Very High,Good,14419.13
+95,Moderate,Missed Payments,17116.79
+96,Moderate,Missed Payments,11134.49
+97,Very High,Delinquent,6715.37
+98,Moderate,Good,5898.7
+99,Very High,Good,4230.93
+100,High,Delinquent,3600.39

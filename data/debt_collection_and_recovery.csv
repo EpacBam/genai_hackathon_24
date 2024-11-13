@@ -1,0 +1,21 @@
+customer_id,outstanding_amount,recovery_stage,repayment_progress,debt_restructuring
+81,9794.47,Initial Contact,0.59,Yes
+53,6536.44,Legal Action,0.2,No
+53,4228.04,Final Notice,0.13,Yes
+9,4259.12,Payment Plan,0.47,Yes
+99,6432.53,Payment Plan,0.63,Yes
+73,9555.72,Final Notice,0.62,Yes
+83,2253.95,Legal Action,0.33,Yes
+22,6398.4,Initial Contact,0.57,Yes
+66,6021.74,Final Notice,0.25,Yes
+8,1605.76,Final Notice,0.93,Yes
+65,6066.0,Initial Contact,0.4,No
+55,6349.35,Legal Action,0.47,Yes
+67,679.89,Initial Contact,0.48,No
+61,2247.67,Payment Plan,0.25,No
+99,4033.77,Final Notice,0.17,Yes
+12,5032.54,Payment Plan,0.34,No
+4,6546.76,Payment Plan,0.25,Yes
+49,3388.64,Initial Contact,0.2,No
+76,2796.95,Legal Action,0.19,No
+97,2831.29,Final Notice,0.2,Yes

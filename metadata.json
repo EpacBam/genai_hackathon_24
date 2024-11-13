@@ -1,0 +1,14 @@
+{
+    "customer_demographics": ["customer_demographics.csv"],
+    "customer_risk": ["customer_risk_markers.csv", "customer_credit_risk_assessment.csv"],
+    "customer_financials": ["customer_loan_accounts.csv", "customer_investment_portfolio.csv", "account_available_balance.csv", "account_overdraft_usage.csv", "mortgage_and_loan_repayment_history.csv"],
+    "customer_behavior": ["customer_behavioral_profiles.csv", "customer_biometrics_session-level.csv", "customer_product_lifecycle_engagement.csv", "customer_online_security_alerts.csv"],
+    "customer_engagement": ["customer_satisfaction_survey_results.csv", "customer_service_interaction.csv", "customer_communication_preferences.csv", "customer_rewards_and_loyalty.csv", "customer_marketing_interactions.csv", "customer_referral_and_advocacy.csv"],
+    "transaction_logs": ["credit_transactions.csv", "debit_transactions.csv", "atm_and_branch_transaction_logs.csv"],
+    "account_mapping": ["account-customer_mapping.csv"],
+    "cross_sell_upsell": ["cross-sell_and_upsell_opportunities.csv"],
+    "customer_financial_goals": ["customer_financial_goals.csv"],
+    "account_closure_requests": ["customer_account_closure_requests.csv"],
+    "fraud_and_risk_alerts": ["fraud_alerts_and_flags.csv", "debt_collection_and_recovery.csv"],
+    "customer_complaints": ["customer_complaints.csv"]
+}

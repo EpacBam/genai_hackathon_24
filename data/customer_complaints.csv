@@ -1,0 +1,51 @@
+customer_id,complaint_id,complaint_type,date_reported,status
+97,1,Transaction Issue,2024-10-02 10:11:39.037889,Resolved
+93,2,Technical,2024-09-07 10:11:39.037889,Resolved
+92,3,Service,2024-09-18 10:11:39.037889,Escalated
+100,4,Transaction Issue,2024-10-12 10:11:39.037889,Escalated
+39,5,Transaction Issue,2024-10-13 10:11:39.037889,Escalated
+22,6,Service,2024-09-21 10:11:39.037889,Escalated
+57,7,Other,2024-10-12 10:11:39.037889,Escalated
+5,8,Transaction Issue,2024-09-22 10:11:39.037889,Resolved
+42,9,Service,2024-10-07 10:11:39.037889,Pending
+43,10,Service,2024-10-23 10:11:39.037889,Pending
+42,11,Other,2024-09-23 10:11:39.037889,Resolved
+75,12,Transaction Issue,2024-09-07 10:11:39.037889,Pending
+91,13,Other,2024-09-26 10:11:39.037889,Pending
+1,14,Service,2024-09-10 10:11:39.037889,Resolved
+7,15,Transaction Issue,2024-09-09 10:11:39.037889,Escalated
+48,16,Transaction Issue,2024-10-21 10:11:39.037889,Resolved
+23,17,Service,2024-09-07 10:11:39.037889,Resolved
+68,18,Transaction Issue,2024-09-23 10:11:39.037889,Pending
+24,19,Other,2024-09-21 10:11:39.037889,Resolved
+49,20,Other,2024-09-05 10:11:39.037889,Pending
+61,21,Technical,2024-09-24 10:11:39.037889,Resolved
+32,22,Other,2024-09-19 10:11:39.037889,Pending
+73,23,Transaction Issue,2024-09-06 10:11:39.037889,Pending
+49,24,Technical,2024-09-27 10:11:39.037889,Escalated
+19,25,Other,2024-10-13 10:11:39.037889,Pending
+51,26,Service,2024-10-30 10:11:39.037889,Resolved
+82,27,Technical,2024-09-17 10:11:39.037889,Escalated
+57,28,Service,2024-09-16 10:11:39.037889,Escalated
+60,29,Transaction Issue,2024-09-22 10:11:39.037889,Escalated
+22,30,Service,2024-11-03 10:11:39.037889,Escalated
+9,31,Technical,2024-09-07 10:11:39.037889,Pending
+55,32,Transaction Issue,2024-09-29 10:11:39.037889,Pending
+52,33,Other,2024-10-31 10:11:39.037889,Escalated
+33,34,Other,2024-09-25 10:11:39.037889,Escalated
+48,35,Service,2024-10-12 10:11:39.037889,Resolved
+100,36,Technical,2024-09-19 10:11:39.037889,Pending
+74,37,Transaction Issue,2024-09-19 10:11:39.037889,Resolved
+50,38,Service,2024-09-30 10:11:39.037889,Resolved
+90,39,Other,2024-11-01 10:11:39.037889,Resolved
+63,40,Service,2024-10-02 10:11:39.037889,Resolved
+59,41,Transaction Issue,2024-09-22 10:11:39.037889,Escalated
+32,42,Other,2024-09-30 10:11:39.037889,Escalated
+82,43,Technical,2024-10-24 10:11:39.037889,Resolved
+81,44,Transaction Issue,2024-09-20 10:11:39.037889,Pending
+42,45,Transaction Issue,2024-10-20 10:11:39.037889,Pending
+77,46,Service,2024-09-26 10:11:39.037889,Resolved
+26,47,Other,2024-10-24 10:11:39.037889,Pending
+13,48,Technical,2024-11-03 10:11:39.037889,Resolved
+64,49,Transaction Issue,2024-10-20 10:11:39.037889,Escalated
+71,50,Service,2024-09-28 10:11:39.037889,Escalated

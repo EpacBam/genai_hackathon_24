@@ -1,0 +1,101 @@
+customer_id,average_monthly_spend,spending_category,typical_transaction_time,saving_habits
+1,1742.89,Balanced,Afternoon,Occasional Saver
+2,1219.03,Luxury,Night,Non-Saver
+3,1775.96,Essentials,Afternoon,Occasional Saver
+4,2555.42,Luxury,Night,Occasional Saver
+5,4548.96,Balanced,Evening,Non-Saver
+6,1636.8,Essentials,Afternoon,Non-Saver
+7,3651.04,Essentials,Afternoon,Occasional Saver
+8,547.71,Luxury,Night,Non-Saver
+9,2111.06,Essentials,Night,Occasional Saver
+10,333.04,Luxury,Evening,Regular Saver
+11,3978.57,Luxury,Afternoon,Regular Saver
+12,3672.76,Luxury,Afternoon,Occasional Saver
+13,4696.32,Luxury,Afternoon,Regular Saver
+14,4454.3,Balanced,Evening,Regular Saver
+15,4004.2,Balanced,Evening,Non-Saver
+16,1689.28,Essentials,Morning,Occasional Saver
+17,1714.71,Luxury,Evening,Non-Saver
+18,4943.56,Balanced,Night,Non-Saver
+19,3464.7,Essentials,Evening,Regular Saver
+20,1892.6,Balanced,Morning,Non-Saver
+21,3955.46,Luxury,Evening,Non-Saver
+22,2722.02,Luxury,Morning,Regular Saver
+23,4804.74,Luxury,Night,Occasional Saver
+24,3334.39,Luxury,Evening,Occasional Saver
+25,2007.4,Essentials,Evening,Non-Saver
+26,618.46,Balanced,Night,Non-Saver
+27,983.74,Essentials,Evening,Regular Saver
+28,981.85,Balanced,Afternoon,Occasional Saver
+29,4790.07,Essentials,Evening,Occasional Saver
+30,1047.52,Essentials,Morning,Occasional Saver
+31,3193.26,Luxury,Evening,Regular Saver
+32,1020.41,Balanced,Afternoon,Occasional Saver
+33,2400.82,Essentials,Night,Non-Saver
+34,2454.44,Essentials,Afternoon,Non-Saver
+35,3940.05,Essentials,Evening,Non-Saver
+36,3249.94,Luxury,Evening,Non-Saver
+37,1534.09,Essentials,Afternoon,Non-Saver
+38,3219.26,Essentials,Afternoon,Regular Saver
+39,335.98,Luxury,Afternoon,Occasional Saver
+40,2675.48,Luxury,Night,Non-Saver
+41,1993.44,Essentials,Afternoon,Regular Saver
+42,965.55,Balanced,Evening,Non-Saver
+43,2239.41,Balanced,Evening,Non-Saver
+44,680.93,Luxury,Night,Non-Saver
+45,1752.96,Balanced,Morning,Non-Saver
+46,1359.16,Essentials,Afternoon,Occasional Saver
+47,380.15,Balanced,Evening,Regular Saver
+48,3064.65,Balanced,Morning,Non-Saver
+49,2910.44,Luxury,Afternoon,Non-Saver
+50,351.08,Luxury,Morning,Occasional Saver
+51,731.31,Essentials,Afternoon,Occasional Saver
+52,1495.97,Balanced,Afternoon,Occasional Saver
+53,378.06,Luxury,Night,Non-Saver
+54,3095.17,Essentials,Evening,Non-Saver
+55,1357.45,Essentials,Morning,Regular Saver
+56,1548.68,Balanced,Night,Regular Saver
+57,977.33,Essentials,Evening,Non-Saver
+58,3705.12,Luxury,Afternoon,Occasional Saver
+59,3714.44,Essentials,Afternoon,Non-Saver
+60,1170.39,Luxury,Morning,Occasional Saver
+61,3328.3,Balanced,Afternoon,Regular Saver
+62,2382.59,Essentials,Night,Occasional Saver
+63,3213.5,Luxury,Night,Non-Saver
+64,2140.6,Luxury,Afternoon,Regular Saver
+65,2114.74,Balanced,Night,Occasional Saver
+66,3973.83,Essentials,Evening,Occasional Saver
+67,3515.51,Luxury,Morning,Non-Saver
+68,1119.58,Luxury,Night,Regular Saver
+69,2719.31,Balanced,Afternoon,Occasional Saver
+70,4299.7,Luxury,Night,Non-Saver
+71,4535.1,Essentials,Night,Regular Saver
+72,4318.37,Luxury,Morning,Non-Saver
+73,4288.21,Luxury,Night,Non-Saver
+74,2353.44,Balanced,Night,Occasional Saver
+75,4636.68,Luxury,Evening,Regular Saver
+76,2200.6,Luxury,Afternoon,Non-Saver
+77,1169.63,Balanced,Afternoon,Occasional Saver
+78,3734.73,Luxury,Evening,Non-Saver
+79,4934.16,Balanced,Afternoon,Non-Saver
+80,1829.55,Luxury,Morning,Non-Saver
+81,1558.77,Essentials,Morning,Occasional Saver
+82,357.27,Luxury,Morning,Non-Saver
+83,1762.46,Balanced,Morning,Occasional Saver
+84,1755.87,Luxury,Night,Occasional Saver
+85,1632.0,Luxury,Night,Regular Saver
+86,1071.91,Luxury,Evening,Non-Saver
+87,1391.76,Essentials,Morning,Regular Saver
+88,473.61,Luxury,Night,Regular Saver
+89,3183.42,Luxury,Night,Regular Saver
+90,629.72,Essentials,Evening,Non-Saver
+91,621.94,Balanced,Evening,Occasional Saver
+92,2753.44,Luxury,Afternoon,Non-Saver
+93,1125.09,Balanced,Morning,Regular Saver
+94,3866.76,Essentials,Morning,Non-Saver
+95,1459.85,Balanced,Morning,Regular Saver
+96,1800.98,Balanced,Evening,Non-Saver
+97,2509.64,Essentials,Night,Non-Saver
+98,2464.1,Balanced,Evening,Occasional Saver
+99,3745.88,Balanced,Morning,Non-Saver
+100,2635.5,Essentials,Morning,Occasional Saver

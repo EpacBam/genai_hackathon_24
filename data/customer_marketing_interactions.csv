@@ -1,0 +1,201 @@
+interaction_id,customer_id,interaction_type,interaction_date,response,product_promoted
+1,60,SMS,2024-10-26 10:11:39.037889,Opened,Savings Account
+2,2,Phone Call,2024-10-12 10:11:39.037889,Opened,Savings Account
+3,39,Push Notification,2024-10-04 10:11:39.037889,Ignored,Savings Account
+4,93,SMS,2024-10-27 10:11:39.037889,Opened,Loan
+5,69,Phone Call,2024-09-14 10:11:39.037889,Clicked,Loan
+6,50,Email,2024-09-22 10:11:39.037889,Opened,Credit Card
+7,30,Push Notification,2024-10-18 10:11:39.037889,Ignored,Mortgage
+8,19,Push Notification,2024-10-27 10:11:39.037889,Opened,Credit Card
+9,15,Push Notification,2024-09-25 10:11:39.037889,Opened,Savings Account
+10,55,Phone Call,2024-09-08 10:11:39.037889,Opened,Mortgage
+11,10,Push Notification,2024-09-29 10:11:39.037889,Clicked,Savings Account
+12,11,Email,2024-10-24 10:11:39.037889,Opened,Savings Account
+13,47,Push Notification,2024-10-19 10:11:39.037889,Opened,Mortgage
+14,64,Phone Call,2024-09-10 10:11:39.037889,Opened,Savings Account
+15,34,Phone Call,2024-10-16 10:11:39.037889,Clicked,Loan
+16,64,Email,2024-10-15 10:11:39.037889,Opened,Savings Account
+17,20,SMS,2024-11-01 10:11:39.037889,Clicked,Credit Card
+18,83,Email,2024-10-05 10:11:39.037889,Opened,Credit Card
+19,76,Phone Call,2024-10-21 10:11:39.037889,Opened,Credit Card
+20,45,Push Notification,2024-10-02 10:11:39.037889,Clicked,Loan
+21,64,SMS,2024-11-03 10:11:39.037889,Opened,Credit Card
+22,72,Push Notification,2024-10-28 10:11:39.037889,Clicked,Savings Account
+23,1,SMS,2024-10-18 10:11:39.037889,Opened,Credit Card
+24,92,Email,2024-11-03 10:11:39.037889,Ignored,Loan
+25,46,Phone Call,2024-10-11 10:11:39.037889,Opened,Savings Account
+26,62,SMS,2024-10-28 10:11:39.037889,Opened,Mortgage
+27,8,SMS,2024-09-28 10:11:39.037889,Clicked,Credit Card
+28,18,Phone Call,2024-10-03 10:11:39.037889,Opened,Credit Card
+29,19,Phone Call,2024-11-03 10:11:39.037889,Ignored,Mortgage
+30,86,SMS,2024-10-25 10:11:39.037889,Ignored,Savings Account
+31,46,Email,2024-10-30 10:11:39.037889,Opened,Savings Account
+32,31,Push Notification,2024-09-06 10:11:39.037889,Clicked,Credit Card
+33,77,SMS,2024-10-21 10:11:39.037889,Clicked,Mortgage
+34,100,Email,2024-11-01 10:11:39.037889,Opened,Credit Card
+35,50,SMS,2024-09-29 10:11:39.037889,Opened,Mortgage
+36,9,Push Notification,2024-10-03 10:11:39.037889,Opened,Credit Card
+37,9,Email,2024-09-06 10:11:39.037889,Ignored,Loan
+38,54,Email,2024-10-13 10:11:39.037889,Opened,Loan
+39,83,SMS,2024-09-20 10:11:39.037889,Opened,Mortgage
+40,21,Email,2024-09-07 10:11:39.037889,Ignored,Credit Card
+41,55,Email,2024-10-10 10:11:39.037889,Opened,Savings Account
+42,11,Phone Call,2024-10-31 10:11:39.037889,Ignored,Loan
+43,58,Email,2024-10-10 10:11:39.037889,Opened,Mortgage
+44,90,Phone Call,2024-09-15 10:11:39.037889,Opened,Savings Account
+45,1,SMS,2024-09-20 10:11:39.037889,Opened,Loan
+46,44,Push Notification,2024-09-27 10:11:39.037889,Opened,Savings Account
+47,98,Push Notification,2024-09-27 10:11:39.037889,Ignored,Savings Account
+48,76,Phone Call,2024-09-12 10:11:39.037889,Clicked,Credit Card
+49,72,SMS,2024-11-02 10:11:39.037889,Opened,Loan
+50,50,Push Notification,2024-09-15 10:11:39.037889,Opened,Credit Card
+51,28,Phone Call,2024-10-21 10:11:39.037889,Ignored,Mortgage
+52,5,Email,2024-09-22 10:11:39.037889,Clicked,Mortgage
+53,45,Push Notification,2024-10-24 10:11:39.037889,Clicked,Mortgage
+54,68,SMS,2024-09-11 10:11:39.037889,Opened,Mortgage
+55,25,Phone Call,2024-10-08 10:11:39.037889,Opened,Credit Card
+56,29,Phone Call,2024-09-29 10:11:39.037889,Clicked,Mortgage
+57,14,SMS,2024-10-02 10:11:39.037889,Clicked,Credit Card
+58,37,SMS,2024-09-26 10:11:39.037889,Ignored,Mortgage
+59,59,Phone Call,2024-10-28 10:11:39.037889,Opened,Savings Account
+60,3,Push Notification,2024-09-26 10:11:39.037889,Opened,Credit Card
+61,95,Email,2024-09-25 10:11:39.037889,Clicked,Credit Card
+62,58,Email,2024-11-02 10:11:39.037889,Clicked,Credit Card
+63,91,Push Notification,2024-09-11 10:11:39.037889,Ignored,Mortgage
+64,94,Email,2024-10-06 10:11:39.037889,Opened,Loan
+65,96,Email,2024-10-13 10:11:39.037889,Opened,Credit Card
+66,6,Email,2024-10-31 10:11:39.037889,Ignored,Loan
+67,12,SMS,2024-10-09 10:11:39.037889,Opened,Savings Account
+68,5,Phone Call,2024-09-27 10:11:39.037889,Opened,Mortgage
+69,55,Push Notification,2024-10-16 10:11:39.037889,Ignored,Credit Card
+70,38,Push Notification,2024-10-29 10:11:39.037889,Clicked,Loan
+71,33,Push Notification,2024-09-19 10:11:39.037889,Opened,Mortgage
+72,15,Phone Call,2024-10-02 10:11:39.037889,Opened,Loan
+73,39,Email,2024-10-22 10:11:39.037889,Opened,Loan
+74,86,Phone Call,2024-10-22 10:11:39.037889,Opened,Credit Card
+75,5,Push Notification,2024-09-17 10:11:39.037889,Opened,Credit Card
+76,78,Phone Call,2024-10-11 10:11:39.037889,Clicked,Mortgage
+77,56,Email,2024-10-04 10:11:39.037889,Clicked,Savings Account
+78,88,Phone Call,2024-09-10 10:11:39.037889,Opened,Credit Card
+79,17,Push Notification,2024-09-18 10:11:39.037889,Ignored,Credit Card
+80,23,Email,2024-10-17 10:11:39.037889,Ignored,Savings Account
+81,72,Email,2024-10-25 10:11:39.037889,Ignored,Credit Card
+82,67,Phone Call,2024-09-13 10:11:39.037889,Clicked,Mortgage
+83,18,Push Notification,2024-10-15 10:11:39.037889,Opened,Credit Card
+84,29,SMS,2024-10-14 10:11:39.037889,Clicked,Savings Account
+85,19,Push Notification,2024-10-27 10:11:39.037889,Opened,Credit Card
+86,80,Email,2024-09-12 10:11:39.037889,Ignored,Loan
+87,3,Phone Call,2024-10-13 10:11:39.037889,Clicked,Credit Card
+88,18,SMS,2024-10-28 10:11:39.037889,Opened,Savings Account
+89,58,Phone Call,2024-10-20 10:11:39.037889,Opened,Loan
+90,33,SMS,2024-10-25 10:11:39.037889,Opened,Credit Card
+91,75,Email,2024-09-15 10:11:39.037889,Clicked,Credit Card
+92,56,Push Notification,2024-09-16 10:11:39.037889,Opened,Credit Card
+93,22,Phone Call,2024-09-30 10:11:39.037889,Ignored,Credit Card
+94,38,Email,2024-10-09 10:11:39.037889,Opened,Savings Account
+95,97,Email,2024-10-15 10:11:39.037889,Clicked,Credit Card
+96,77,SMS,2024-10-19 10:11:39.037889,Opened,Loan
+97,23,Phone Call,2024-09-29 10:11:39.037889,Ignored,Savings Account
+98,68,Email,2024-10-19 10:11:39.037889,Opened,Mortgage
+99,71,Push Notification,2024-09-07 10:11:39.037889,Opened,Mortgage
+100,48,Push Notification,2024-10-02 10:11:39.037889,Opened,Credit Card
+101,30,Phone Call,2024-10-16 10:11:39.037889,Opened,Credit Card
+102,46,Push Notification,2024-10-08 10:11:39.037889,Opened,Mortgage
+103,100,Phone Call,2024-10-18 10:11:39.037889,Clicked,Loan
+104,88,Phone Call,2024-11-01 10:11:39.037889,Clicked,Credit Card
+105,26,Push Notification,2024-09-20 10:11:39.037889,Ignored,Loan
+106,79,SMS,2024-09-22 10:11:39.037889,Opened,Credit Card
+107,45,Push Notification,2024-10-01 10:11:39.037889,Ignored,Mortgage
+108,16,Email,2024-09-30 10:11:39.037889,Ignored,Credit Card
+109,64,SMS,2024-09-17 10:11:39.037889,Opened,Savings Account
+110,57,Phone Call,2024-10-10 10:11:39.037889,Ignored,Savings Account
+111,48,Push Notification,2024-10-25 10:11:39.037889,Opened,Loan
+112,3,Email,2024-09-08 10:11:39.037889,Clicked,Savings Account
+113,10,Phone Call,2024-10-03 10:11:39.037889,Clicked,Savings Account
+114,25,Push Notification,2024-11-03 10:11:39.037889,Opened,Mortgage
+115,43,Phone Call,2024-10-19 10:11:39.037889,Ignored,Savings Account
+116,18,Push Notification,2024-09-28 10:11:39.037889,Opened,Loan
+117,25,Email,2024-09-24 10:11:39.037889,Opened,Mortgage
+118,58,Push Notification,2024-09-08 10:11:39.037889,Clicked,Loan
+119,74,SMS,2024-09-12 10:11:39.037889,Clicked,Credit Card
+120,42,Phone Call,2024-09-13 10:11:39.037889,Opened,Savings Account
+121,50,SMS,2024-09-11 10:11:39.037889,Opened,Mortgage
+122,77,Email,2024-09-21 10:11:39.037889,Ignored,Credit Card
+123,10,Push Notification,2024-09-08 10:11:39.037889,Opened,Mortgage
+124,70,Email,2024-10-10 10:11:39.037889,Clicked,Credit Card
+125,1,Phone Call,2024-10-10 10:11:39.037889,Clicked,Credit Card
+126,87,Push Notification,2024-10-22 10:11:39.037889,Ignored,Mortgage
+127,54,Email,2024-10-20 10:11:39.037889,Opened,Mortgage
+128,6,Push Notification,2024-09-07 10:11:39.037889,Clicked,Credit Card
+129,11,Push Notification,2024-10-12 10:11:39.037889,Opened,Loan
+130,100,Push Notification,2024-10-26 10:11:39.037889,Ignored,Loan
+131,40,Phone Call,2024-09-21 10:11:39.037889,Opened,Mortgage
+132,50,Email,2024-10-21 10:11:39.037889,Opened,Savings Account
+133,69,SMS,2024-09-22 10:11:39.037889,Opened,Mortgage
+134,66,Push Notification,2024-10-16 10:11:39.037889,Opened,Loan
+135,56,SMS,2024-10-06 10:11:39.037889,Ignored,Loan
+136,71,Email,2024-10-08 10:11:39.037889,Opened,Loan
+137,52,Push Notification,2024-10-21 10:11:39.037889,Opened,Loan
+138,64,SMS,2024-10-27 10:11:39.037889,Clicked,Credit Card
+139,81,Phone Call,2024-09-07 10:11:39.037889,Ignored,Savings Account
+140,15,Push Notification,2024-10-17 10:11:39.037889,Clicked,Credit Card
+141,15,Phone Call,2024-10-01 10:11:39.037889,Opened,Mortgage
+142,88,Email,2024-10-23 10:11:39.037889,Ignored,Credit Card
+143,57,Push Notification,2024-10-23 10:11:39.037889,Opened,Mortgage
+144,2,Push Notification,2024-09-24 10:11:39.037889,Ignored,Credit Card
+145,74,SMS,2024-09-05 10:11:39.037889,Ignored,Loan
+146,68,Email,2024-09-30 10:11:39.037889,Clicked,Savings Account
+147,44,Email,2024-10-16 10:11:39.037889,Clicked,Savings Account
+148,1,SMS,2024-10-24 10:11:39.037889,Opened,Loan
+149,10,Phone Call,2024-10-12 10:11:39.037889,Opened,Savings Account
+150,60,Push Notification,2024-09-24 10:11:39.037889,Opened,Savings Account
+151,90,Email,2024-10-02 10:11:39.037889,Clicked,Credit Card
+152,87,Email,2024-09-18 10:11:39.037889,Opened,Credit Card
+153,14,SMS,2024-10-09 10:11:39.037889,Clicked,Loan
+154,100,SMS,2024-10-26 10:11:39.037889,Clicked,Savings Account
+155,88,Phone Call,2024-09-07 10:11:39.037889,Opened,Credit Card
+156,9,Push Notification,2024-10-18 10:11:39.037889,Opened,Savings Account
+157,36,Phone Call,2024-10-02 10:11:39.037889,Ignored,Credit Card
+158,10,SMS,2024-09-12 10:11:39.037889,Opened,Mortgage
+159,5,Push Notification,2024-09-06 10:11:39.037889,Opened,Credit Card
+160,59,Email,2024-10-04 10:11:39.037889,Opened,Mortgage
+161,38,Phone Call,2024-10-22 10:11:39.037889,Clicked,Savings Account
+162,4,Push Notification,2024-10-21 10:11:39.037889,Opened,Credit Card
+163,86,SMS,2024-10-03 10:11:39.037889,Clicked,Savings Account
+164,5,Phone Call,2024-10-17 10:11:39.037889,Clicked,Mortgage
+165,10,Phone Call,2024-09-29 10:11:39.037889,Ignored,Credit Card
+166,64,Email,2024-09-26 10:11:39.037889,Clicked,Savings Account
+167,95,SMS,2024-10-02 10:11:39.037889,Clicked,Credit Card
+168,45,Phone Call,2024-09-10 10:11:39.037889,Ignored,Mortgage
+169,86,SMS,2024-09-09 10:11:39.037889,Clicked,Mortgage
+170,27,Email,2024-10-16 10:11:39.037889,Clicked,Loan
+171,41,Email,2024-10-30 10:11:39.037889,Clicked,Credit Card
+172,66,Phone Call,2024-09-28 10:11:39.037889,Clicked,Credit Card
+173,40,Push Notification,2024-09-20 10:11:39.037889,Clicked,Savings Account
+174,100,Push Notification,2024-10-11 10:11:39.037889,Opened,Credit Card
+175,48,SMS,2024-09-13 10:11:39.037889,Clicked,Loan
+176,38,SMS,2024-11-03 10:11:39.037889,Opened,Savings Account
+177,58,Push Notification,2024-09-16 10:11:39.037889,Opened,Mortgage
+178,68,Email,2024-10-24 10:11:39.037889,Opened,Credit Card
+179,79,Phone Call,2024-10-02 10:11:39.037889,Opened,Savings Account
+180,4,Push Notification,2024-10-16 10:11:39.037889,Opened,Mortgage
+181,12,Email,2024-09-10 10:11:39.037889,Clicked,Credit Card
+182,88,Phone Call,2024-10-06 10:11:39.037889,Clicked,Mortgage
+183,62,SMS,2024-10-27 10:11:39.037889,Opened,Loan
+184,38,Push Notification,2024-09-30 10:11:39.037889,Clicked,Loan
+185,6,SMS,2024-09-29 10:11:39.037889,Opened,Mortgage
+186,19,Phone Call,2024-10-16 10:11:39.037889,Clicked,Savings Account
+187,13,SMS,2024-09-15 10:11:39.037889,Ignored,Savings Account
+188,28,Email,2024-09-06 10:11:39.037889,Clicked,Loan
+189,87,Email,2024-11-03 10:11:39.037889,Opened,Mortgage
+190,28,Email,2024-09-21 10:11:39.037889,Clicked,Mortgage
+191,46,Phone Call,2024-10-02 10:11:39.037889,Clicked,Mortgage
+192,74,Push Notification,2024-10-12 10:11:39.037889,Clicked,Credit Card
+193,34,Email,2024-09-27 10:11:39.037889,Opened,Savings Account
+194,73,SMS,2024-09-15 10:11:39.037889,Ignored,Mortgage
+195,48,SMS,2024-09-10 10:11:39.037889,Ignored,Loan
+196,32,Email,2024-10-05 10:11:39.037889,Opened,Loan
+197,1,Push Notification,2024-09-24 10:11:39.037889,Opened,Savings Account
+198,26,Phone Call,2024-10-14 10:11:39.037889,Clicked,Savings Account
+199,76,Push Notification,2024-09-30 10:11:39.037889,Ignored,Savings Account
+200,73,SMS,2024-10-31 10:11:39.037889,Clicked,Credit Card

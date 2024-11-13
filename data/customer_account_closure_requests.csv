@@ -1,0 +1,21 @@
+customer_id,closure_request_date,closure_reason,retention_offer_made,final_closure_status
+80,2024-09-08 10:11:39.037889,Other,Yes,Closed
+67,2024-09-07 10:11:39.037889,Dissatisfied,No,Closed
+32,2024-10-23 10:11:39.037889,Dissatisfied,No,Retained
+53,2024-10-11 10:11:39.037889,Moving to New Bank,No,Closed
+65,2024-10-09 10:11:39.037889,Found Better Option,Yes,Closed
+27,2024-09-21 10:11:39.037889,Moving to New Bank,No,Retained
+27,2024-10-05 10:11:39.037889,Moving to New Bank,Yes,Retained
+35,2024-09-18 10:11:39.037889,Other,No,Retained
+100,2024-09-23 10:11:39.037889,Found Better Option,No,Closed
+88,2024-10-07 10:11:39.037889,Found Better Option,Yes,Closed
+55,2024-10-20 10:11:39.037889,Dissatisfied,No,Closed
+6,2024-09-20 10:11:39.037889,Other,No,Closed
+6,2024-10-18 10:11:39.037889,Moving to New Bank,Yes,Retained
+94,2024-10-06 10:11:39.037889,Found Better Option,Yes,Closed
+75,2024-10-09 10:11:39.037889,Moving to New Bank,Yes,Retained
+32,2024-11-02 10:11:39.037889,Dissatisfied,No,Retained
+78,2024-10-07 10:11:39.037889,Other,Yes,Retained
+43,2024-10-11 10:11:39.037889,Moving to New Bank,No,Closed
+66,2024-10-14 10:11:39.037889,Other,Yes,Retained
+60,2024-09-18 10:11:39.037889,Moving to New Bank,Yes,Retained

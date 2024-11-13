@@ -1,0 +1,335 @@
+{
+    "customer_demographics": {
+        "description": "Contains demographic information about customers.",
+        "columns": {
+            "customer_id": "Unique identifier for each customer",
+            "age": "Age of the customer",
+            "gender": "Gender of the customer",
+            "income": "Income level of the customer",
+            "location": "Geographic location of the customer"
+        }
+    },
+    "credit_transactions": {
+        "description": "Records of all credit transactions.",
+        "columns": {
+            "transaction_id": "Unique identifier for each transaction",
+            "account_id": "Associated account ID for the transaction",
+            "transaction_date": "Date when the transaction occurred",
+            "transaction_amount": "Amount of the transaction",
+            "transaction_type": "Type of credit transaction (e.g., deposit, refund)"
+        }
+    },
+    "debit_transactions": {
+        "description": "Records of all debit transactions.",
+        "columns": {
+            "transaction_id": "Unique identifier for each transaction",
+            "account_id": "Associated account ID for the transaction",
+            "transaction_date": "Date when the transaction occurred",
+            "transaction_amount": "Amount of the transaction",
+            "transaction_type": "Type of debit transaction (e.g., purchase, withdrawal)"
+        }
+    },
+    "account_customer_mapping": {
+        "description": "Maps accounts to customers.",
+        "columns": {
+            "account_id": "Unique identifier for each account",
+            "customer_id": "Unique identifier for each customer"
+        }
+    },
+    "customer_risk_markers": {
+        "description": "Indicates risk factors associated with customers.",
+        "columns": {
+            "customer_id": "Unique identifier for each customer",
+            "risk_score": "Risk score assigned to the customer",
+            "risk_level": "Categorical risk level (e.g., high, medium, low)",
+            "insolvency_marker": "Indicates if the customer is insolvent (yes or no)"
+        }
+    },
+    "customer_complaints": {
+        "description": "Records customer complaints.",
+        "columns": {
+            "complaint_id": "Unique identifier for each complaint",
+            "customer_id": "Unique identifier for each customer",
+            "complaint_date": "Date when the complaint was registered",
+            "complaint_type": "Type of complaint",
+            "status": "Status of the complaint (e.g., resolved, pending)"
+        }
+    },
+    "account_available_balance": {
+        "description": "Monthly account balance details.",
+        "columns": {
+            "account_id": "Unique identifier for each account",
+            "month": "Month for the balance record",
+            "average_balance": "Average balance in the account for the month",
+            "high_balance": "Highest balance in the account for the month",
+            "low_balance": "Lowest balance in the account for the month"
+        }
+    },
+    "customer_biometrics_session_level": {
+        "description": "Session-level biometrics and usage details for customer mobile app interactions.",
+        "columns": {
+            "session_id": "Unique identifier for each session",
+            "customer_id": "Unique identifier for each customer",
+            "device_type": "Type of device used",
+            "last_activity": "Last activity timestamp in the session",
+            "mobile_banking": "Binary indicator for mobile banking usage",
+            "internet_banking": "Binary indicator for internet banking usage",
+            "telephone_banking": "Binary indicator for telephone banking usage"
+        }
+    },
+    "customer_satisfaction_survey_results": {
+        "description": "Customer satisfaction survey responses.",
+        "columns": {
+            "survey_id": "Unique identifier for each survey response",
+            "customer_id": "Unique identifier for each customer",
+            "survey_date": "Date when the survey was completed",
+            "satisfaction_score": "Satisfaction score given by the customer",
+            "feedback_comments": "Additional comments provided by the customer"
+        }
+    },
+    "customer_financial_goals": {
+        "description": "Records of customer financial goals.",
+        "columns": {
+            "goal_id": "Unique identifier for each financial goal",
+            "customer_id": "Unique identifier for each customer",
+            "goal_type": "Type of financial goal (e.g., retirement, saving for home)",
+            "target_amount": "Target amount for the financial goal",
+            "goal_date": "Target date to achieve the financial goal"
+        }
+    },
+    "fraud_alerts_and_flags": {
+        "description": "Contains records of fraud alerts and flags on customer accounts.",
+        "columns": {
+            "alert_id": "Unique identifier for each alert",
+            "customer_id": "Unique identifier for each customer",
+            "alert_date": "Date when the alert was triggered",
+            "alert_type": "Type of fraud alert",
+            "severity": "Severity level of the fraud alert"
+        }
+    },
+    "account_overdraft_usage": {
+        "description": "Overdraft usage details for accounts.",
+        "columns": {
+            "account_id": "Unique identifier for each account",
+            "overdraft_limit": "Overdraft limit set for the account",
+            "overdraft_used": "Overdraft amount used",
+            "usage_date": "Date when the overdraft was used"
+        }
+    },
+    "mortgage_and_loan_repayment_history": {
+        "description": "Repayment history for mortgages and loans.",
+        "columns": {
+            "loan_id": "Unique identifier for each loan",
+            "customer_id": "Unique identifier for each customer",
+            "repayment_date": "Date of the repayment",
+            "repayment_amount": "Amount repaid",
+            "remaining_balance": "Remaining balance on the loan"
+        }
+    },
+    "customer_behavioral_profiles": {
+        "description": "Behavioral profiles of customers.",
+        "columns": {
+            "customer_id": "Unique identifier for each customer",
+            "behavior_score": "Behavior score based on transaction patterns",
+            "spending_category": "Main spending category",
+            "last_transaction_date": "Date of last transaction"
+        }
+    },
+    "customer_communication_preferences": {
+        "description": "Preferred communication methods of customers.",
+        "columns": {
+            "customer_id": "Unique identifier for each customer",
+            "preferred_channel": "Preferred communication channel (e.g., email, SMS)",
+            "communication_frequency": "Preferred frequency of communication"
+        }
+    },
+    "customer_credit_risk_assessment": {
+        "description": "Credit risk assessments for customers.",
+        "columns": {
+            "assessment_id": "Unique identifier for each risk assessment",
+            "customer_id": "Unique identifier for each customer",
+            "credit_score": "Credit score assigned to the customer",
+            "risk_category": "Risk category based on credit score"
+        }
+    },
+    "customer_investment_portfolio": {
+        "description": "Details of customer investment portfolios.",
+        "columns": {
+            "portfolio_id": "Unique identifier for each portfolio",
+            "customer_id": "Unique identifier for each customer",
+            "investment_type": "Type of investment (e.g., stocks, bonds)",
+            "investment_value": "Current value of the investment"
+        }
+    },
+    "customer_marketing_interactions": {
+        "description": "Records of marketing interactions with customers.",
+        "columns": {
+            "interaction_id": "Unique identifier for each marketing interaction",
+            "customer_id": "Unique identifier for each customer",
+            "interaction_date": "Date of the marketing interaction",
+            "channel": "Channel through which the interaction took place",
+            "outcome": "Outcome of the marketing interaction"
+        }
+    },
+    "customer_referral_and_advocacy": {
+        "description": "Details of customer referrals and advocacy actions.",
+        "columns": {
+            "referral_id": "Unique identifier for each referral",
+            "customer_id": "Unique identifier for each customer",
+            "referral_date": "Date of the referral",
+            "referral_type": "Type of referral (e.g., product recommendation)",
+            "outcome": "Outcome of the referral"
+        }
+    },
+    "customer_product_lifecycle_engagement": {
+        "description": "Tracks customer engagement throughout the product lifecycle.",
+        "columns": {
+            "engagement_id": "Unique identifier for each engagement record",
+            "customer_id": "Unique identifier for each customer",
+            "product_type": "Type of product engaged with",
+            "engagement_stage": "Stage in product lifecycle (e.g., onboarding, usage)",
+            "engagement_date": "Date of the engagement"
+        }
+    },
+    "customer_rewards_and_loyalty": {
+        "description": "Records of customer rewards and loyalty program participation.",
+        "columns": {
+            "reward_id": "Unique identifier for each reward",
+            "customer_id": "Unique identifier for each customer",
+            "reward_date": "Date when the reward was issued",
+            "reward_type": "Type of reward (e.g., points, cashback)",
+            "reward_value": "Value of the reward"
+        }
+    },
+    "customer_service_interaction": {
+        "description": "Records of interactions between customer service and customers.",
+        "columns": {
+            "interaction_id": "Unique identifier for each service interaction",
+            "customer_id": "Unique identifier for each customer",
+            "interaction_date": "Date of the interaction",
+            "channel": "Channel of interaction (e.g., phone, email)",
+            "interaction_outcome": "Outcome of the interaction (e.g., resolved, escalated)"
+        }
+    },
+    "customer_online_security_alerts": {
+        "description": "Security alerts related to customer online activity.",
+        "columns": {
+            "alert_id": "Unique identifier for each security alert",
+            "customer_id": "Unique identifier for each customer",
+            "alert_date": "Date when the alert was triggered",
+            "alert_type": "Type of security alert (e.g., login from new device)",
+            "severity_level": "Severity level of the alert"
+        }
+    },
+    "cross_sell_and_upsell_opportunities": {
+        "description": "Potential cross-sell and upsell opportunities identified for customers.",
+        "columns": {
+            "opportunity_id": "Unique identifier for each opportunity",
+            "customer_id": "Unique identifier for each customer",
+            "opportunity_date": "Date when the opportunity was identified",
+            "product_suggested": "Product suggested for cross-sell or upsell",
+            "success_probability": "Probability score indicating likelihood of success"
+        }
+    },
+    "debt_collection_and_recovery": {
+        "description": "Records of debt collection and recovery actions.",
+        "columns": {
+            "collection_id": "Unique identifier for each collection action",
+            "customer_id": "Unique identifier for each customer",
+            "collection_date": "Date when the collection action was initiated",
+            "amount_collected": "Amount collected through the action",
+            "outcome": "Outcome of the collection action (e.g., fully collected, partially collected)"
+        }
+    },
+    "atm_and_branch_transaction_logs": {
+        "description": "Logs of transactions performed at ATMs and branches.",
+        "columns": {
+            "transaction_id": "Unique identifier for each transaction",
+            "account_id": "Associated account ID for the transaction",
+            "transaction_date": "Date of the transaction",
+            "transaction_amount": "Amount involved in the transaction",
+            "location": "Location where the transaction was performed (ATM or branch)"
+        }
+    },
+    "customer_account_closure_requests": {
+        "description": "Records of customer requests to close their accounts.",
+        "columns": {
+            "closure_request_id": "Unique identifier for each closure request",
+            "customer_id": "Unique identifier for each customer",
+            "request_date": "Date when the closure request was made",
+            "closure_reason": "Reason provided for account closure",
+            "status": "Current status of the closure request (e.g., pending, completed)"
+        }
+    },
+    "business_customer_public_information": {
+        "description": "Public information about business banking customers.",
+        "columns": {
+            "business_id": "Unique identifier for each business customer",
+            "trading_address": "Business trading address",
+            "number_of_stakeholders": "Number of stakeholders in the business",
+            "annual_turnover": "Annual turnover of the business",
+            "revenue": "Revenue generated by the business"
+        }
+    },
+    "customer_financial_goals": {
+        "description": "Financial goals set by customers.",
+        "columns": {
+            "goal_id": "Unique identifier for each goal",
+            "customer_id": "Unique identifier for each customer",
+            "goal_type": "Type of goal (e.g., retirement, savings)",
+            "target_amount": "Target amount for the goal",
+            "goal_date": "Target date to achieve the goal"
+        }
+    },
+    "customer_loan_accounts": {
+        "description": "Records of customer loan accounts.",
+        "columns": {
+            "loan_account_id": "Unique identifier for each loan account",
+            "customer_id": "Unique identifier for each customer",
+            "loan_amount": "Total loan amount",
+            "loan_type": "Type of loan (e.g., mortgage, personal)",
+            "interest_rate": "Interest rate applied to the loan"
+        }
+    },
+    "customer_model_risk_scores": {
+        "description": "Model-based risk scores assigned to customers for various risks.",
+        "columns": {
+            "model_score_id": "Unique identifier for each model risk score",
+            "customer_id": "Unique identifier for each customer",
+            "mule_risk_score": "Score indicating the risk of mule behavior",
+            "fraud_risk_score": "Score indicating the risk of fraudulent activity",
+            "scam_risk_score": "Score indicating the risk of scams",
+            "money_laundering_risk_score": "Score indicating the risk of money laundering"
+        }
+    },
+    "customer_satisfaction_survey_results": {
+        "description": "Records of customer satisfaction survey responses.",
+        "columns": {
+            "survey_id": "Unique identifier for each survey",
+            "customer_id": "Unique identifier for each customer",
+            "satisfaction_score": "Overall satisfaction score",
+            "feedback": "Text feedback provided by the customer"
+        }
+    },
+    "customer_marketing_interactions": {
+        "description": "Marketing interactions and engagement with customers.",
+        "columns": {
+            "interaction_id": "Unique identifier for each interaction",
+            "customer_id": "Unique identifier for each customer",
+            "interaction_date": "Date of the marketing interaction",
+            "channel": "Channel used for marketing (e.g., email, SMS)",
+            "outcome": "Outcome of the interaction (e.g., engagement, no engagement)"
+        }
+    },
+    "mortgage_and_loan_repayment_history": {
+        "description": "Repayment history of customer mortgages and loans.",
+        "columns": {
+            "repayment_id": "Unique identifier for each repayment record",
+            "customer_id": "Unique identifier for each customer",
+            "repayment_date": "Date of the repayment",
+            "amount_repaid": "Amount repaid",
+            "remaining_balance": "Remaining balance after the repayment"
+        }
+    }
+    
+}
